@@ -57,7 +57,6 @@ Once the server has been started, in your browser, navigate to http://127.0.0.1:
 some screenshots:
 
 ![Screenshot of the front page](./images/screenshot-1.png)
-![Screenshot of the dashboard](./images/screenshot-2.png)
 ![Screenshot of the dashboard with posts](./images/screenshot-3.png)
 ![Screenshot of the edit post page](./images/screenshot-4.png)
 
